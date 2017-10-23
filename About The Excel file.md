@@ -1,9 +1,9 @@
-##Which are the most important features to test?
+**Which are the most important features to test?**
 
 The file describes how to test the app based on user stories scenarios to quickly test the app for acceptability,
 as well to evaluate the system's compliance with the business requirements and assess whether it is acceptable for delivery.
 
-##How would you define a problematic release and which aspects would you focus on to avoid it?
+**How would you define a problematic release and which aspects would you focus on to avoid it?**
 
 Based on the Bussiness priorities if there is any blocker found ( i.e app crashes always, or user can't post a Jodel, or user can't see the live update)
 then the app should not be released!
