@@ -1,5 +1,5 @@
 # QAJodelCC
-**Welcome to QA @ Jodel
+** Welcome to QA @ Jodel **
 
 Dear Applicant,
 
