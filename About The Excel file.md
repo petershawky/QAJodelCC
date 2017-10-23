@@ -5,6 +5,6 @@ as well to evaluate the system's compliance with the business requirements and a
 
 **How would you define a problematic release and which aspects would you focus on to avoid it?**
 
-Based on the Bussiness priorities if there is any blocker found ( i.e app crashes always, or user can't post a Jodel, or user can't see the live update)
+Based on the Business priorities if there is any blocker found ( i.e app crashes always, or user can't post a Jodel, or user can't see the live update)
 then the app should not be released!
 Normally there should be a smoke test excuted before any release to check that the release doesn't have any problematic bug/Blocker
